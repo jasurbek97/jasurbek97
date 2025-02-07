@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Node.js
 - 🌱 I’m currently learning Kubernates, AWS
-- 📫 How to reach me: [personal website](http://jasurbek.me)
+- 📫 How to reach me: [personal website](https://www.jasur-bek.uz)
 
 ![webstyle's github stats](https://github-readme-stats.vercel.app/api?username=jasurbek97&show_icons=true&theme=tokyonight)
 
